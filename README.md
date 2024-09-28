@@ -9,13 +9,13 @@ Extracted from the HyperOS.
 ### 1. Clone the Device MIUICamera Repo
 
 ```bash
-git clone https://github.com/sm6225-unified/device_xiaomi_miuicamera-sapphire.git -b 14 device/xiaomi/miuicamera-sapphire
+git clone https://github.com/ReStranger/device_xiaomi_miuicamera-sapphire.git -b 14 device/xiaomi/miuicamera-sapphire
 ```
 
 ### 2. Clone the Vendor MIUICamera Repo
 
 ```bash
-git clone https://gitlab.com/kibria5/vendor_xiaomi_miuicamera-sapphire.git -b 14 vendor/xiaomi/miuicamera-sapphire
+git clone https://github.com/ReStranger/vendor_xiaomi_miuicamera-sapphire.git -b 14 vendor/xiaomi/miuicamera-sapphire
 ```
 
 ### 3. Inherit from `BoardConfig.mk` in the Device Tree
