@@ -26,7 +26,7 @@ git clone https://github.com/ReStranger/device_xiaomi_miuicamera-sapphire.git -b
 ### 2. Clone the Vendor MIUICamera Repo
 
 ```bash
-git clone https://github.com/ReStranger/vendor_xiaomi_miuicamera-sapphire.git -b 14.0 vendor/xiaomi/miuicamera-sapphire
+git clone https://gitlab.com/ReStranger/vendor_xiaomi_miuicamera-sapphire.git -b 14.0 vendor/xiaomi/miuicamera-sapphire
 ```
 
 ### 3. Inherit from `BoardConfig.mk` in the Device Tree
