@@ -1,4 +1,6 @@
-# MIUICamera For Sapphire
+1.6 megapixels as a standard photo
+
+# MIUICamera For Sapphire (BUG)
 
 Prebuilt stock MIUI Camera for the Redmi Note 13 4G (sapphire/sapphiren), for included in custom ROM builds.
 
